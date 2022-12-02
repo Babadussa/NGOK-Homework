@@ -33,19 +33,15 @@ int main(void)
     char provod = perevod('Z');
     printf("Перевод из заглавной в строчную и наоборот === %c \n",provod);
     
-    sum(&c,&d);
     int rezult = sum(&c,&d);
     printf("Сумма двух переменных === %d \n",rezult);
 
-    sub(&c,&d);
     int razn = sub(&c,&d);
     printf("Разность двух переменных === %d \n",razn);
 
-    mult(&gh,&hj);
     double ymnoj = mult(&gh,&hj);
     printf("Умножение двух переменных === %lf \n",ymnoj);
 
-    dev(&kj,&jk);
     float delen = dev(&kj,&jk);
     printf("Деление двух переменных === %f \n",delen);
 
