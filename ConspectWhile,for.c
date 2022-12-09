@@ -45,7 +45,7 @@ int main(void){
 //     // }
 //     // for(int i = 0,j = SIZE - 1 ;i < SIZE / 2;++i , --j )
 //     // {
-
+            
 //     // }
 
 //     //Тоже самое только через WHILE
